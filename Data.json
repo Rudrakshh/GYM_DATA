@@ -1,0 +1,182 @@
+[
+   {
+      "name":"Push-Ups",
+      "image":"https://example.com/pushups.jpg",
+      "bodyPart":"Chest"
+   },
+   {
+      "name":"Bench Press",
+      "image":"https://example.com/benchpress.jpg",
+      "bodyPart":"Chest"
+   },
+   {
+      "name":"Dumbbell Flyes",
+      "image":"https://example.com/dumbbellflyes.jpg",
+      "bodyPart":"Chest"
+   },
+   {
+      "name":"Incline Bench Press",
+      "image":"https://example.com/inclinebenchpress.jpg",
+      "bodyPart":"Chest"
+   },
+   {
+      "name":"Chest Dips",
+      "image":"https://example.com/chestdips.jpg",
+      "bodyPart":"Chest"
+   },
+   {
+      "name":"Cable Crossovers",
+      "image":"https://example.com/cablecrossovers.jpg",
+      "bodyPart":"Chest"
+   },
+   {
+      "name":"Dumbbell Shoulder Press",
+      "image":"https://example.com/dumbbellshoulderpress.jpg",
+      "bodyPart":"Shoulders"
+   },
+   {
+      "name":"Arnold Press",
+      "image":"https://example.com/arnoldpress.jpg",
+      "bodyPart":"Shoulders"
+   },
+   {
+      "name":"Lateral Raises",
+      "image":"https://example.com/lateralraises.jpg",
+      "bodyPart":"Shoulders"
+   },
+   {
+      "name":"Front Raises",
+      "image":"https://example.com/frontraises.jpg",
+      "bodyPart":"Shoulders"
+   },
+   {
+      "name":"Shrugs",
+      "image":"https://example.com/shrugs.jpg",
+      "bodyPart":"Shoulders"
+   },
+   {
+      "name":"Face Pulls",
+      "image":"https://example.com/facepulls.jpg",
+      "bodyPart":"Shoulders"
+   },
+   {
+      "name":"Bicep Curls",
+      "image":"https://example.com/bicepcurls.jpg",
+      "bodyPart":"Biceps"
+   },
+   {
+      "name":"Hammer Curls",
+      "image":"https://example.com/hammercurls.jpg",
+      "bodyPart":"Biceps"
+   },
+   {
+      "name":"Barbell Curls",
+      "image":"https://example.com/barbellcurls.jpg",
+      "bodyPart":"Biceps"
+   },
+   {
+      "name":"Preacher Curls",
+      "image":"https://example.com/preachercurls.jpg",
+      "bodyPart":"Biceps"
+   },
+   {
+      "name":"Concentration Curls",
+      "image":"https://example.com/concentrationcurls.jpg",
+      "bodyPart":"Biceps"
+   },
+   {
+      "name":"Spider Curls",
+      "image":"https://example.com/spidercurls.jpg",
+      "bodyPart":"Biceps"
+   },
+   {
+      "name":"Pull-Ups",
+      "image":"https://example.com/pullups.jpg",
+      "bodyPart":"Back"
+   },
+   {
+      "name":"Lat Pulldowns",
+      "image":"https://example.com/latpulldowns.jpg",
+      "bodyPart":"Back"
+   },
+   {
+      "name":"Deadlifts",
+      "image":"https://example.com/deadlifts.jpg",
+      "bodyPart":"Back"
+   },
+   {
+      "name":"Bent-Over Rows",
+      "image":"https://example.com/bentoverrows.jpg",
+      "bodyPart":"Back"
+   },
+   {
+      "name":"T-Bar Rows",
+      "image":"https://example.com/tbarrows.jpg",
+      "bodyPart":"Back"
+   },
+   {
+      "name":"Single-Arm Dumbbell Rows",
+      "image":"https://example.com/singlearmdumbbellrows.jpg",
+      "bodyPart":"Back"
+   },
+   {
+      "name":"Tricep Dips",
+      "image":"https://example.com/tricepdips.jpg",
+      "bodyPart":"Triceps"
+   },
+   {
+      "name":"Tricep Pushdowns",
+      "image":"https://example.com/triceppushdowns.jpg",
+      "bodyPart":"Triceps"
+   },
+   {
+      "name":"Skull Crushers",
+      "image":"https://example.com/skullcrushers.jpg",
+      "bodyPart":"Triceps"
+   },
+   {
+      "name":"Close-Grip Bench Press",
+      "image":"https://example.com/closegripbenchpress.jpg",
+      "bodyPart":"Triceps"
+   },
+   {
+      "name":"Diamond Push-Ups",
+      "image":"https://example.com/diamondpushups.jpg",
+      "bodyPart":"Triceps"
+   },
+   {
+      "name":"Overhead Tricep Extension",
+      "image":"https://example.com/overheadtricepextension.jpg",
+      "bodyPart":"Triceps"
+   },
+   {
+      "name":"Crunches",
+      "image":"https://example.com/crunches.jpg",
+      "bodyPart":"Abs"
+   },
+   {
+      "name":"Leg Raises",
+      "image":"https://example.com/legraises.jpg",
+      "bodyPart":"Abs"
+   },
+   {
+      "name":"Russian Twists",
+      "image":"https://example.com/russiantwists.jpg",
+      "bodyPart":"Abs"
+   },
+   {
+      "name":"Planks",
+      "image":"https://example.com/planks.jpg",
+      "bodyPart":"Abs"
+   },
+   {
+      "name":"Bicycle Crunches",
+      "image":"https://example.com/bicyclecrunches.jpg",
+      "bodyPart":"Abs"
+   },
+   {
+      "name":"Hanging Leg Raises",
+      "image":"https://example.com/hanginglegraises.jpg",
+      "bodyPart":"Abs"
+   }
+]
